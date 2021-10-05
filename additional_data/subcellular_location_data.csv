@@ -16,7 +16,6 @@
 "ENSG00000002330","BAD","Mitochondria","","APE","Supportive","GO:0005739",""
 "ENSG00000002549","LAP3","Cytoplasm","Nucleus but not nucleoli","APE","Supportive","GO:0005737","GO:0005654"
 "ENSG00000002586","CD99","Golgi apparatus","","APE","Uncertain","GO:0005794",""
-"ENSG00000002726","AOC1","","","APE","Uncertain","",""
 "ENSG00000002822","MAD1L1","Nucleus","Cytoplasm;Cytoskeleton (Actin filaments)","APE","Supportive","GO:0005634","GO:0005737;GO:0015629"
 "ENSG00000002834","LASP1","Plasma membrane;Cytoplasm","Focal Adhesions","APE","Supportive","GO:0005886;GO:0005737","GO:0005925"
 "ENSG00000002933","TMEM176A","Mitochondria","","APE","Uncertain","GO:0005739",""
