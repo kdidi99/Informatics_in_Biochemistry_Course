@@ -29,6 +29,6 @@ Click on the `▶ Run` button. Your output should now look like this:
 <img src="images/jupyter_test.png" width="700"/>
 </div>
 
-If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. You can now close the Anaconda Prompt / Terminal again to shutdown Jupyter and you can also delete the `.ipynb_checkpoints` folder which Jupyter automatically created in the folder in which you created the new file.
+If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. Now close the Anaconda Prompt / Terminal and your webbrowser to shutdown Jupyter. You can also delete the `.ipynb_checkpoints` folder which Jupyter automatically built in the folder in which you just created this Python file.
 
 If something went wrong in the installation and you cannot figure it out, feel free to message Leonhard or me on the course discord.
