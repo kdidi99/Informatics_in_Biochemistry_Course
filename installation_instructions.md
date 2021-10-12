@@ -29,4 +29,4 @@ Click on the `▶ Run` button. Your output should now look like this:
 <img src="images/jupyter_test.png" width="700"/>
 </div>
 
-If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. If something went wrong in the installation and you cannot figure it out, feel free to seek help from Leonhard or me on the course discord.
+If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. If something went wrong in the installation and you cannot figure it out, feel free to message Leonhard or me on the course discord.
