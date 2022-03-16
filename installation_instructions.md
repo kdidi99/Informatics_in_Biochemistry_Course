@@ -10,7 +10,7 @@ conda activate base
 
 jupyter notebook
 ```
-
+Cancel changes
 Now, the Jupyter application should open in your webbrowser. Next, switch to some random folder on the Jupyter interface and then click on `New`→`Python 3`.
 
 Now, a Jupyter Notebook with a single code cell should open. Click into the code cell and enter the following code which will test if your installation works as intended:
@@ -31,4 +31,4 @@ Click on the `▶ Run` button. Your output should now look like this:
 
 If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. Now close the Anaconda Prompt / Terminal and your webbrowser to shutdown Jupyter. You can also delete the `.ipynb_checkpoints` folder which Jupyter automatically built in the folder in which you just created this Python file.
 
-If something went wrong in the installation and you cannot figure it out, feel free to message Leonhard or me on the course discord.
+If something went wrong in the installation and you cannot figure it out, feel free to message Tobias, Lukas or me on the course discord.
