@@ -1,4 +1,6 @@
-# Informatics in Biochemistry Course
+# Python for Biochemists Course
+
+*Heidelberg University, summer semester 2022*
 
 Dear all, 
 
