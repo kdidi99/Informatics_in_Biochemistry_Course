@@ -1,6 +1,6 @@
 # Python for Biochemists Course
 
-*Heidelberg University, summer semester 2022*
+*Heidelberg University, summer semester 2022, organised by [Kieran Didi](https://github.com/kierandidi) and Tobias Dorer*
 
 Dear all, 
 
